@@ -15,7 +15,7 @@
 }
 
 .logo h1 {
-  margin-left: .5em;
+  margin-left: 0.5em;
 }
 
 .link_items {
@@ -31,7 +31,7 @@
   color: #fff;
   text-decoration: none;
   padding: 5px;
-  transition: .4s;
+  transition: 0.4s;
   border-bottom: 2px solid transparent;
 }
 

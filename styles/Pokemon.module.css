@@ -7,13 +7,13 @@
   text-transform: capitalize;
   background-color: #333;
   color: #fff;
-  padding: .3em;
-  margin: .8em auto;
+  padding: 0.3em;
+  margin: 0.8em auto;
   width: 300px;
 }
 
 .pokemon_container h3 {
-  margin: .6em auto;
+  margin: 0.6em auto;
   font-size: 1.2em;
 }
 
@@ -24,10 +24,10 @@
 }
 
 .type {
-  padding: .6em 1em;
+  padding: 0.6em 1em;
   color: #fff;
   background-color: #000;
-  margin-right: .5em;
+  margin-right: 0.5em;
   border: 1px solid #ccc;
   border-radius: 6px;
   text-transform: uppercase;
@@ -109,11 +109,11 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-top: .5em;
+  margin-top: 0.5em;
 }
 
 .data_container div {
-  MARGIN: 1em 0;
+  margin: 1em 0;
   padding: 0 1em;
   display: flex;
   flex-direction: column;

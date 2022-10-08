@@ -43,7 +43,7 @@ export default function Pokemon({ pokemon }) {
         height='200'
         alt={pokemon.name}
       />
-            <div>
+      <div>
         <h3>Número:</h3>
         <p>#{pokemon.id}</p>
       </div>
